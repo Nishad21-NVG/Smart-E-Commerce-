@@ -42,7 +42,7 @@ smart-ecommerce/
 
 ### 1️⃣ Clone Repository
 
-git clone https://github.com/your-username/smart-ecommerce.git
+git clone https://github.com/Nishad21-NVG/smart-ecommerce.git
 
 ### 2️⃣ Backend Setup
 
@@ -100,4 +100,5 @@ Displays product cards with name, category, and price.
 
 ## 👨‍💻 Author
 
-Nishad Ghatage
+**Nishad Ghatage**
+GitHub: https://github.com/Nishad21-NVG
