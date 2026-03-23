@@ -42,7 +42,7 @@ smart-ecommerce/
 
 ### 1️⃣ Clone Repository
 
-git clone https://github.com/Nishad21-NVG/smart-ecommerce.git
+git clone https://github.com/Nishad21-NVG/Smart-E-Commerce-
 
 ### 2️⃣ Backend Setup
 
